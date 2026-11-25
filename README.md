@@ -1,2 +1,0 @@
-# znh
-ZNH web build
